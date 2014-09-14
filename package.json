@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "description": "Node talk - Agenda de contatos",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": { 
+	"express": "3.4.7", 
+	"express-load": "1.1.8", 
+	"ejs": "0.8.5",
+	"socket.io": "0.9.16",
+	"mongoose": "3.8.4"
+  }
+}
