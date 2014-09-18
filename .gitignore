@@ -21,6 +21,22 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+ 
+pids
+logs
+results
+ 
+node_modules
+npm-debug.log
+
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -34,3 +50,5 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+
