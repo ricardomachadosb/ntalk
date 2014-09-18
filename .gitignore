@@ -36,6 +36,7 @@ results
  
 node_modules
 npm-debug.log
+bkcp
 
 .DS_Store
 .AppleDouble
